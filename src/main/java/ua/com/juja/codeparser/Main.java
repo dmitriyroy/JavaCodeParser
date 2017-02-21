@@ -23,12 +23,12 @@ public class Main {
 
     private static Collection<String> getJavaFiles(String pathCatalogue){
         Collection<String> outList = new ArrayList<String>();
-
+        // TODO
         return outList;
     }
     private static File parserJavaFiles(Collection<String> javaFileList, String pathResultFile) {
         File outFile = new File(pathResultFile);
-
+        // TODO
         return outFile;
     }
 }
