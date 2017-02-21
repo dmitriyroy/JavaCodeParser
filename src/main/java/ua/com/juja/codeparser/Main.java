@@ -13,7 +13,7 @@ public class Main {
          * args[0] - каталог с java-файлами
          * arg[1] - результирующий файл
          */
-        if(args == null || args.length < 1){
+        if(args == null || args.length < 2){
             return;
         }
 
